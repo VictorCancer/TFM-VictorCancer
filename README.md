@@ -1,6 +1,6 @@
 ![dalle](https://github.com/user-attachments/assets/4d525d5b-5043-44fc-a48c-832dcd31b2cf)
 
-# Repositorio del Trabajo de Final de Master de Víctor Cáncer
+# Repositorio del Trabajo de Final de Master de Víctor Cáncer Castillo
 
 Este repositorio contiene los notebooks y scripts de Python utilizados durante el desarrollo del proyecto en el marco del Trabajo de Final de Master de la UOC para el Máster de Ciencia de Datos.
 
@@ -15,8 +15,15 @@ En la carpeta de _notebooks_ encontramos los cuadernos de Jupyter utilizados dur
 Tanto para el modelo YOLOv5 como para YOLOv11 encontramos tres tipos de cuaderno: 
 * **Entrenamiento**: Un cuaderno que nos permite enternar el modelo con uno o más datasets.
 * **Validación**: Un cuaderno que nos permite validar un modelo _custom_ contra el dataset que queramos.
+* **Integración de nuevos datos**: Un cuaderno que nos permite integrar nuevos datos a nuestro modelo para mejorarlo.
 
 ## Scripts de Python
+
+Durante el proyecto se ejecutaron algunos scripts de Python para pequeños procesos que se podían ejecutar en local:
+* **generador_dataset_Bahamas.py**:
+* **plot_tallas.py**:
+* **remove_extra_column.py**:
+* **visualizar_etiquetas.py**:
 
 ## Ficheros de parámetros
 

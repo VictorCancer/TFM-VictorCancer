@@ -10,6 +10,12 @@ La ejecución de los notebooks se ha realizado en Google Colabs con Google Drive
 
 ## Notebooks
 
+En la carpeta de _notebooks_ encontramos los cuadernos de Jupyter utilizados durante el proyecto. 
+
+Tanto para el modelo YOLOv5 como para YOLOv11 encontramos tres tipos de cuaderno: 
+* **Entrenamiento**: Un cuaderno que nos permite enternar el modelo con uno o más datasets.
+* **Validación**: Un cuaderno que nos permite validar un modelo _custom_ contra el dataset que queramos.
+
 ## Scripts de Python
 
 ## Ficheros de parámetros

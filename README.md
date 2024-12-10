@@ -10,4 +10,8 @@ La ejecución de los notebooks se ha realizado en Google Colabs con Google Drive
 
 ## Ficheros de parámetros
 
-Se adjuntan los siguientes ficheros 
+Se adjuntan los siguientes ficheros YAML al repositorio: 
+* DELT.yaml - Fichero que define las carpetas de entorno así como las clases de YOLO (en este caso solo una: la tortuga).
+* DELT_validation.yaml - Fichero que define las carpetas de entorno así como las clases de YOLO (en este caso solo una: la tortuga). Este fichero se utiliza en el notebook de "Integración de nuevos datos".
+* DELTv11.yaml - Fichero que define las carpetas de entorno así como las clases de YOLO (en este caso solo una: la tortuga).
+* DELTv11_validation.yaml - Fichero que define las carpetas de entorno así como las clases de YOLO (en este caso solo una: la tortuga). Este fichero se utiliza en el notebook de "Integración de nuevos datos".

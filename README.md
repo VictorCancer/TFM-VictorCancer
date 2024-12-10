@@ -20,10 +20,10 @@ Tanto para el modelo YOLOv5 como para YOLOv11 encontramos tres tipos de cuaderno
 ## Scripts de Python
 
 Durante el proyecto se ejecutaron algunos scripts de Python para pequeños procesos que se podían ejecutar en local:
-* **generador_dataset_Bahamas.py**:
-* **plot_tallas.py**:
-* **remove_extra_column.py**:
-* **visualizar_etiquetas.py**:
+* **generador_dataset_Bahamas.py**: Genera las imágenes y normalizan las etiquetas a partir de los videos de Bahamas.
+* **plot_tallas.py**: Sirve para crear el gráfico final de los resultados con las diferentes tallas de YOLO.
+* **remove_extra_column.py**: Se elimina la última columna de un fichero de etiquetas por una columna de más que hay en algunas etiquetas.
+* **visualizar_etiquetas.py**: Se utiliza para visualizar las etiquetas sobre las imágenes de los datasets.
 
 ## Ficheros de parámetros
 

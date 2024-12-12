@@ -16,6 +16,7 @@ Tanto para el modelo YOLOv5 como para YOLOv11 encontramos tres tipos de cuaderno
 * **Entrenamiento**: Un cuaderno que nos permite enternar el modelo con uno o más datasets.
 * **Validación**: Un cuaderno que nos permite validar un modelo _custom_ contra el dataset que queramos.
 * **Integración de nuevos datos**: Un cuaderno que nos permite integrar nuevos datos a nuestro modelo para mejorarlo.
+* **Predicciones**: Un cuaderno para hacer predicciones de la ubicación de las tortugas.
 
 ## Scripts de Python
 
